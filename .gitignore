@@ -1,0 +1,9 @@
+*.bak
+test.db/
+
+# python
+__pycache__/
+*.py[cod]
+*.egg-info
+build/
+dist/
